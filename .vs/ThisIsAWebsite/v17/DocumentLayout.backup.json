@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|c:\\users\\eli\\source\\repos\\my stuff\\thisisawebsite\\thisisawebsite\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|solutionrelative:thisisawebsite\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|c:\\users\\eli\\source\\repos\\my stuff\\thisisawebsite\\thisisawebsite\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|solutionrelative:thisisawebsite\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|c:\\users\\eli\\source\\repos\\my stuff\\thisisawebsite\\thisisawebsite\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|solutionrelative:thisisawebsite\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|c:\\users\\eli\\source\\repos\\my stuff\\thisisawebsite\\thisisawebsite\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|solutionrelative:thisisawebsite\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|c:\\users\\eli\\source\\repos\\my stuff\\thisisawebsite\\thisisawebsite\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|solutionrelative:thisisawebsite\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|c:\\users\\eli\\source\\repos\\my stuff\\thisisawebsite\\thisisawebsite\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE8209B-D00C-4EB5-A021-6FB02B5909F6}|ThisIsAWebsite\\ThisIsAWebsite.csproj|solutionrelative:thisisawebsite\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ThisIsAWebsite\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\wwwroot\\index.html",
+              "RelativeToolTip": "ThisIsAWebsite\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-30T20:16:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ThisIsAWebsite\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Pages\\Weather.razor",
+              "RelativeToolTip": "ThisIsAWebsite\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T20:03:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.razor",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Pages\\Test.razor",
+              "RelativeDocumentMoniker": "ThisIsAWebsite\\Pages\\Test.razor",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Pages\\Test.razor",
+              "RelativeToolTip": "ThisIsAWebsite\\Pages\\Test.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T20:02:27.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ThisIsAWebsite\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Pages\\Home.razor",
+              "RelativeToolTip": "ThisIsAWebsite\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:58:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ThisIsAWebsite\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ThisIsAWebsite\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T15:57:46.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "ThisIsAWebsite\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\My stuff\\ThisIsAWebsite\\ThisIsAWebsite\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "ThisIsAWebsite\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T15:57:46.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
